@@ -1,0 +1,5 @@
+browsersync
+
+localtunnel
+
+npm start -s     "-s" run npm silent mode
